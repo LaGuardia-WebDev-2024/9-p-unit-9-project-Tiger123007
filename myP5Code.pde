@@ -63,247 +63,247 @@ draw = function(){
     text("For It", 180, 245); 
   }
  //Nope
-  if (answer == 1) {
+  if (answer == 11) {
     text("Nope", 176, 230);
     text("😁", 210, 230); 
   }
   //Yes
-  if (answer == 2) {
+  if (answer == 12) {
     text("Yes", 176, 230);
     text("😁", 210, 230); 
   }
   //Please Wait
-  if (answer == 3) {
+  if (answer == 13) {
     text("Please Wait", 170, 230);
     text("15 Seconds", 170, 250); 
   }
    //Please Try Again
-   if (answer == 4) {
+   if (answer == 14) {
     text("Please", 180, 230);
     text("Try Again", 170, 250); 
   }
    //Look
-   if (answer == 5) {
+   if (answer == 15) {
     text("Look", 185, 230);
     text("Behind You", 170, 250); 
   } 
   //Got You
-  if (answer == 6) {
+  if (answer == 16) {
     text("Got", 185, 230);
     text("You 😁", 180, 250); 
   }
   //...
-  if (answer == 7) {
+  if (answer == 17) {
     text("...", 195, 230);
     text("", 180, 250); 
   }
   //50/50
-  if (answer == 8) {
+  if (answer == 18) {
     text("50/50", 185, 230);
     text("", 180, 250); 
   }
   //Fun Fact
-  if (answer == 9) {
+  if (answer == 19) {
     text("Fun Fact Below", 165, 230);
     text("Fun Fact", 180, 275); 
   }
   //Go For It
-  if (answer == 10) {
+  if (answer == 20) {
     text("Go", 185, 230);
     text("For It", 180, 245); 
   }
  //Nope
-  if (answer == 1) {
+  if (answer == 21) {
     text("Nope", 176, 230);
     text("😁", 210, 230); 
   }
   //Yes
-  if (answer == 2) {
+  if (answer == 22) {
     text("Yes", 176, 230);
     text("😁", 210, 230); 
   }
   //Please Wait
-  if (answer == 3) {
+  if (answer == 23) {
     text("Please Wait", 170, 230);
     text("15 Seconds", 170, 250); 
   }
    //Please Try Again
-   if (answer == 4) {
+   if (answer == 24) {
     text("Please", 180, 230);
     text("Try Again", 170, 250); 
   }
    //Look
-   if (answer == 5) {
+   if (answer == 25) {
     text("Look", 185, 230);
     text("Behind You", 170, 250); 
   } 
   //Got You
-  if (answer == 6) {
+  if (answer == 26) {
     text("Got", 185, 230);
     text("You 😁", 180, 250); 
   }
   //...
-  if (answer == 7) {
+  if (answer == 27) {
     text("...", 195, 230);
     text("", 180, 250); 
   }
   //50/50
-  if (answer == 8) {
+  if (answer == 28) {
     text("50/50", 185, 230);
     text("", 180, 250); 
   }
   //Fun Fact
-  if (answer == 9) {
+  if (answer == 29) {
     text("Fun Fact Below", 165, 230);
     text("Fun Fact", 180, 275); 
   }
   //Go For It
-  if (answer == 10) {
+  if (answer == 30) {
     text("Go", 185, 230);
     text("For It", 180, 245); 
   }
  //Nope
-  if (answer == 1) {
+  if (answer == 31) {
     text("Nope", 176, 230);
     text("😁", 210, 230); 
   }
   //Yes
-  if (answer == 2) {
+  if (answer == 32) {
     text("Yes", 176, 230);
     text("😁", 210, 230); 
   }
   //Please Wait
-  if (answer == 3) {
+  if (answer == 33) {
     text("Please Wait", 170, 230);
     text("15 Seconds", 170, 250); 
   }
    //Please Try Again
-   if (answer == 4) {
+   if (answer == 34) {
     text("Please", 180, 230);
     text("Try Again", 170, 250); 
   }
    //Look
-   if (answer == 5) {
+   if (answer == 35) {
     text("Look", 185, 230);
     text("Behind You", 170, 250); 
   } 
   //Got You
-  if (answer == 6) {
+  if (answer == 36) {
     text("Got", 185, 230);
     text("You 😁", 180, 250); 
   }
   //...
-  if (answer == 7) {
+  if (answer == 37) {
     text("...", 195, 230);
     text("", 180, 250); 
   }
   //50/50
-  if (answer == 8) {
+  if (answer == 38) {
     text("50/50", 185, 230);
     text("", 180, 250); 
   }
   //Fun Fact
-  if (answer == 9) {
+  if (answer == 39) {
     text("Fun Fact Below", 165, 230);
     text("Fun Fact", 180, 275); 
   }
   //Go For It
-  if (answer == 10) {
+  if (answer == 40) {
     text("Go", 185, 230);
     text("For It", 180, 245); 
   }
  //Nope
-  if (answer == 1) {
+  if (answer == 41) {
     text("Nope", 176, 230);
     text("😁", 210, 230); 
   }
   //Yes
-  if (answer == 2) {
+  if (answer == 42) {
     text("Yes", 176, 230);
     text("😁", 210, 230); 
   }
   //Please Wait
-  if (answer == 3) {
+  if (answer == 43) {
     text("Please Wait", 170, 230);
     text("15 Seconds", 170, 250); 
   }
    //Please Try Again
-   if (answer == 4) {
+   if (answer == 44) {
     text("Please", 180, 230);
     text("Try Again", 170, 250); 
   }
    //Look
-   if (answer == 5) {
+   if (answer == 45) {
     text("Look", 185, 230);
     text("Behind You", 170, 250); 
   } 
   //Got You
-  if (answer == 6) {
+  if (answer == 46) {
     text("Got", 185, 230);
     text("You 😁", 180, 250); 
   }
   //...
-  if (answer == 7) {
+  if (answer == 47) {
     text("...", 195, 230);
     text("", 180, 250); 
   }
   //50/50
-  if (answer == 8) {
+  if (answer == 48) {
     text("50/50", 185, 230);
     text("", 180, 250); 
   }
   //Fun Fact
-  if (answer == 9) {
+  if (answer == 49) {
     text("Fun Fact Below", 165, 230);
     text("Fun Fact", 180, 275); 
   }
   //Go For It
-  if (answer == 10) {
+  if (answer == 50) {
     text("Go", 185, 230);
     text("For It", 180, 245); 
   }
  //Nope
-  if (answer == 1) {
+  if (answer == 51) {
     text("Nope", 176, 230);
     text("😁", 210, 230); 
   }
   //Yes
-  if (answer == 2) {
+  if (answer == 52) {
     text("Yes", 176, 230);
     text("😁", 210, 230); 
   }
   //Please Wait
-  if (answer == 3) {
+  if (answer == 53) {
     text("Please Wait", 170, 230);
     text("15 Seconds", 170, 250); 
   }
    //Please Try Again
-   if (answer == 4) {
+   if (answer == 54) {
     text("Please", 180, 230);
     text("Try Again", 170, 250); 
   }
    //Look
-   if (answer == 5) {
+   if (answer == 55) {
     text("Look", 185, 230);
     text("Behind You", 170, 250); 
   } 
   //Got You
-  if (answer == 6) {
+  if (answer == 56) {
     text("Got", 185, 230);
     text("You 😁", 180, 250); 
   }
   //...
-  if (answer == 7) {
+  if (answer == 57) {
     text("...", 195, 230);
     text("", 180, 250); 
   }
   //50/50
-  if (answer == 8) {
+  if (answer == 58) {
     text("50/50", 185, 230);
     text("", 180, 250); 
   }
   //Fun Fact
-  if (answer == 9) {
+  if (answer == 59) {
     text("Fun Fact Below", 165, 230);
     text("Fun Fact", 180, 275); 
   }
