@@ -515,7 +515,8 @@ draw = function(){
 
 };
 
-mouseClicked = function(){
+mouseClicked = function
+(){
   answer = round(random(1, 100));
 };
 
