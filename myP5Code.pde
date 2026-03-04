@@ -512,8 +512,12 @@ draw = function(){
     text("Congrats", 185, 230);
     text("You only had a 1% chance to get this", 180, 245); 
   }
+if(mousePressed){
+  text("Yay🎉", random(0,400), random(0,600));
+}
 
 };
+
 
 mouseClicked = function
 (){
